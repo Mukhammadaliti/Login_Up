@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 indent: 100,
                 endIndent: 100,
                 color: Colors.white,
-                height: 100,
+                height: 10,
                 thickness: 1,
               ),
             ),
